@@ -11,12 +11,12 @@ setuptools.setup(
     description="Charprint! It prints one character at a time!", 
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject", # Link your package website here! (most commonly a GitHub repo)
-    packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
+    url="https://github.com/AverseABFun/Charprint", 
+    packages=setuptools.find_packages(), 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-    ], # Enter meta data into the classifiers list!
-    python_requires='>=3.6', # The version requirement for Python to run your package!
+    ], 
+    python_requires='>=3.6', 
 )
