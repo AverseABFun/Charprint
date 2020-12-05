@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1", 
     author="AverseABFun", 
     author_email="arthurebeck@gmail.com", 
-    description="A small example package", 
+    description="Charprint! It prints one character at a time!", 
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pypa/sampleproject", # Link your package website here! (most commonly a GitHub repo)
