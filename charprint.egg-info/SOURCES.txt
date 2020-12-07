@@ -1,0 +1,10 @@
+setup.py
+charprint/LICENSE
+charprint/README.md
+charprint/setup.py
+charprint.egg-info/PKG-INFO
+charprint.egg-info/SOURCES.txt
+charprint.egg-info/dependency_links.txt
+charprint.egg-info/requires.txt
+charprint.egg-info/top_level.txt
+charprint/charprint/__init__.py

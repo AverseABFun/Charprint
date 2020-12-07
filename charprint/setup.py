@@ -1,11 +1,10 @@
 import setuptools
-
-with open("README.md", "r") as fhandle:
+with open("charprint/README.md", "r") as fhandle:
     long_description = fhandle.read() # Your README.md file will be used as the long description!
 
 setuptools.setup(
     name="charprint-AverseABFun", 
-    version="0.0.1", 
+    version="1.2.1", 
     author="AverseABFun", 
     author_email="arthurebeck@gmail.com", 
     description="Charprint! It prints one character at a time!", 
