@@ -14,6 +14,9 @@ def charprint(string, color, cursorused=True):
     sys.stdout.flush()
     if cursorused == True:
         cursor.hide()
+def charinput(string, color, cursorused=True):
+    charprint(string, color, cursorused=cursorused)
+    return input("")
 def blanket():
     os.system("clear")
     for i in range(3):

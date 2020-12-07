@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: charprint-AverseABFun
 Version: 1.2.1
-Summary: ('Charprint! It prints one character at a time!',)
+Summary: Charprint! It prints one character at a time!
 Home-page: https://github.com/AverseABFun/Charprint
 Author: AverseABFun
 Author-email: arthurebeck@gmail.com
@@ -10,6 +10,7 @@ Description: # Charprint!
         ---
         Replace all that unnessasary "import sys" and "for i in string" with "from charprint import charprint" and "charprint(string, 'red' cursorused=False)"!
         > NOTE: There is now the "blanket()" function!
+        NOTE: There is now the "charinput()" function!
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

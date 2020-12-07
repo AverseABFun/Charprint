@@ -4,7 +4,7 @@ with open("charprint/README.md", "r") as fhandle:
 
 setuptools.setup(
     name="charprint-AverseABFun", 
-    version="1.2.1", 
+    version="1.3.1", 
     author="AverseABFun", 
     author_email="arthurebeck@gmail.com", 
     description="Charprint! It prints one character at a time!", 

@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 charprint_AverseABFun.egg-info/PKG-INFO
 charprint_AverseABFun.egg-info/SOURCES.txt
