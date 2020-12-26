@@ -1,6 +1,0 @@
-README.md
-pyproject.toml
-charprint_AverseABFun.egg-info/PKG-INFO
-charprint_AverseABFun.egg-info/SOURCES.txt
-charprint_AverseABFun.egg-info/dependency_links.txt
-charprint_AverseABFun.egg-info/top_level.txt
